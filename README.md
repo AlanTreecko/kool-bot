@@ -1,6 +1,9 @@
 # kool-bot
-A quick and dirty Discord.js bot.
+A quick and dirty discord.js bot.
 
-# Install guide
-Install Python 3, Discord.js, and Pillow for this to run.
-Run py -3 bot.py to start.
+## install guide
+You will need to install Python, discord.js, and Pillow for this to work.
+
+You will need to also put your bot's token into the script.
+
+Afterwards, run the bot by sending `py -3 bot.py` into CMD in the same directory as the script.
