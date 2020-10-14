@@ -2,7 +2,7 @@
 A quick and dirty discord.js bot.
 
 ## install guide
-You will need to install Python, discord.js, and Pillow for this to work.
+You will need to install Python, discord.js, and a crap ton of other shit for it to work.
 
 You will need to also put your bot's token into the script.
 
